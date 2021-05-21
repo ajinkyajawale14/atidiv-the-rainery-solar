@@ -14,3 +14,4 @@ longitude:- 73.85535
 
 3) Transformation: data is present in utc timestamp hence need to convert into ist and date format furthermore
 
+PS:- an cron based job like airflow can setup is this etl pipeline to run everyday and append data to historical data
